@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnandPatil148
-- 👀 I’m interested in making apps based on server/client.
+- 👀 I’m interested in making apps based on sockets and nodes.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord @LiveGamerz#6717

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anand Patil
 - 👀 I’m interested in making apps based on sockets and nodes.
 - 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Games made in Unity with C#...
 - 📫 How to reach me Discord @patan14
 
 <!---
